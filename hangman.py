@@ -1,7 +1,7 @@
 import os
 import random
 
-words_list = ["smart","pound","fleck","light"]
+words_list = ["weigh","smart","pound","fleck","light"]
 
 def hangman(word):
     wrong = 0
